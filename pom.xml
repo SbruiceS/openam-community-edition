@@ -176,7 +176,7 @@
         <webservices-rt.version>2009-29-07</webservices-rt.version>
         <webservices-api.version>2009-14-01</webservices-api.version>
         <jackson-asl.version>1.9.7</jackson-asl.version>
-        <javax.security.auth.message.version>3.1</javax.security.auth.message.version>
+        <javax.security.auth.message.version>3.1.1</javax.security.auth.message.version>
         <jquery-amd.version>1.7.1-alpha-1</jquery-amd.version>
         <freemarker.version>2.3.19</freemarker.version>
         <java-ipv6.version>0.14</java-ipv6.version>
